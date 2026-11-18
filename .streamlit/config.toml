@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6fa"
+textColor = "#1f2328"
+borderColor = "#e3e7ee"
+baseRadius = "0.6rem"
+showSidebarBorder = true
+
+[server]
+maxUploadSize = 600
+
+[browser]
+gatherUsageStats = false
